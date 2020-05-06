@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Olá. Meu nome é Hugo Santos."
+title: "Olá, meu nome é Hugo Santos."
 email: 'hugo@hugosantos.io'
-description: "Uso a tecnologia e educação para ajudar a melhorar a vida das pessoas. Já trabalhei para algumas empresas e também empreendi algumas vezes, a última como Co-Fundador e CTO da Pluvi.On.
-Outra coisa que me deixa feliz é ajudar a simplificar as coisas, tornar o complicado um pouco mais tangível, por isso, há 3 anos realizei um sonho antigo e me tornei professor.
-Ajudar, simplificar, aprender, ensinar e me divertir, essa é uma parte de quem eu sou."
+description: "Uso a tecnologia e educação para ajudar a melhorar a vida das pessoas.</br>Já trabalhei para algumas empresas e também empreendi algumas vezes, a última como Co-Fundador e CTO da Pluvi.On.</br>
+Outra coisa que me deixa feliz é ajudar a simplificar as coisas, tornar o complicado um pouco mais tangível, por isso, há 3 anos realizei um sonho antigo e me tornei professor.</br>
+Ajudar, simplificar, aprender, ensinar e me divertir, essa é uma parte de quem eu sou.</br>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hugosantos.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'hugosantos'
