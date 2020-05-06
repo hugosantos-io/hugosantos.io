@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Olá, meu nome é Hugo Santos."
 email: 'hugo@hugosantos.io'
-description: "Uso a tecnologia e educação para ajudar a melhorar a vida das pessoas.</br>Já trabalhei para algumas empresas e também empreendi algumas vezes, a última como Co-Fundador e CTO da Pluvi.On.</br>
-Outra coisa que me deixa feliz é ajudar a simplificar as coisas, tornar o complicado um pouco mais tangível, por isso, há 3 anos realizei um sonho antigo e me tornei professor.</br>
-Ajudar, simplificar, aprender, ensinar e me divertir, essa é uma parte de quem eu sou.</br>"
+description: "Uso a tecnologia e educação para ajudar a melhorar a vida das pessoas.</br>Já trabalhei para algumas empresas e também empreendi algumas vezes, a última como Co-Fundador e CTO da Pluvi.On.</br>Outra coisa que me deixa feliz é ajudar a simplificar as coisas, tornar o complicado um pouco mais tangível, por isso, há 3 anos realizei um sonho antigo e me tornei professor.</br>Ajudar, simplificar, aprender, ensinar e me divertir, essa é uma parte de quem eu sou.</br>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hugosantos.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'hugosantos'
