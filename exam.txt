@@ -1,0 +1,1359 @@
+1. You are the business analyst for your organization. You are currently with several key stakeholders as part of the determination of which business analysis approach is most appropriate for the current project. Which stakeholder is not considered when completing the business analysis planning and monitoring task to determine a business analysis approach?
+
+a. Project manager
+b. Tester
+c. Regulator
+> d. Functional management
+
+Answer: (d) Functional management describes the layer of management that often oversees business analysts, project manager, and lines of business. This layer is not considered a key stakeholder for the selection of the business analysis approach unless this layer is directly involved in the project or problem the business analyst is working on. If the functional management is considered a stakeholder, then they are considered to be a customer, domain subject matter expert, end user, or supplier.
+
+2. You are the business analyst for your organization and are preparing to conduct stakeholder analysis. As part of this process you realize that you'll need several inputs. Which one of the following is NOT an input you'll use for the conduct stakeholder analysis task?
+
+a. Business need
+b. Enterprise architecture
+c. Organizational process assets
+> d. Enterprise environmental factors
+
+Answer: (d)There are just three inputs to the conduct stakeholder analysis process: the business need, enterprise architecture, and organizational process assets. Enterprise environmental factors describe the rules and policies of an organization.
+
+3. Martha is the business analyst for organization and she's coaching Linda, a new business analyst, on the importance of recording key dependencies between requirements. Which one of the following is the primary reason why key dependencies should be recorded?
+
+a. To identify the necessities of the requirement
+b. To identify the value of the requirement
+> c. To trace the requirement across the project life cycle
+d. To determine who owns the requirement in the project life cycle
+
+Answer: (c) Key dependencies and relationships between requirements should be recorded so they can be traced across the project life cycle. Creating and maintaining this information assists the business analyst in sequencing project work activities to design and deploy the capabilities found in the requirements. It also assists the business analyst in correctly allocating requirements to solution components.
+
+4. Elizabeth is a project stakeholder in your project and she is asking for a change in one of the project requirements. Before this change can be approved, you'll need to determine the effect of the change on all other project requirements. What term best describes the examination of the relationships that may be affected by the change in requirement?
+
+> a. Traceability
+b. Decomposition
+c. Integration management
+d. Change control process
+
+Answer: (a) Traceability facilitates better decision making when it comes to assessing the impact of change requests on a project.
+
+5. There are six tasks that comprise the business analysis planning and monitoring and that must be completed by the business analyst. Which one of the following items is not one of the six tasks that you should complete as a business analyst following the traditional business analyst planning and monitoring approach to a project?
+
+a. Planning the business analysis approach
+> b. Conducting quality assurance processes
+c. Planning business analysis communication
+d. Managing business analysis performance
+
+Answer: (b) Quality assurance is not one of the six business analyst activities that you'll do in the planning and monitoring domain of business analysis activities. The correct six activities are: the business analysis approach, conducting stakeholder analysis, planning business analysis activities, planning business analysis communication, planning the requirements management process, managing business analysis performance.
+
+6. You are the business analyst for your organization and you're gathering project requirements for a small project to create a simple website for a client. Management requires that you use a tool to trace all requirements throughout the project life cycle even for smaller projects. Based on this smaller project, what type of requirements tracing would you recommend?
+
+> a. Coverage matrix
+b. System matrix
+c. Roles and Responsibilities matrix
+d. RACI matrix
+
+Answer: (a) The coverage matrix technique is specific to the Manage Requirements Traceability task. Basically, a coverage matrix is a table or spreadsheet used to manage and facilitate tracing of requirements. This simple approach is used on simple projects where there are only few requirements or on other projects where traceability is very limited and not too detailed.
+
+7. One of the most important activities you'll do as a business analyst is stakeholder analysis. This process helps you, the project team, and the project manager understand who the stakeholders are, and what their roles in the project will be, their priorities for their requirements and communication demands. When does stakeholder analysis typically occur?
+
+> a. During the controlled start phase of the project
+b. During project initiation
+c. Before the project begins
+d. As often as needed
+
+Answer: (a) The business analyst initially performs stakeholder analysis during the controlled start phase of a project, or as part of the pre-project activities. Analysis activities at this point in time focus on key stakeholders who are impacted by the business need and the proposed solution.
+
+8. Juan is the business analyst for his organization and he's performing stakeholder analysis. During this process, Juan wants to create a method to capture the roles and responsibilities for each of the stakeholders. Some of the stakeholders, for example, will be responsible for specific tasks while other stakeholders just need to be kept informed of the progress of the work. Which tool should Juan use to best facilitate this approach?
+
+a. Stakeholder register
+b. Stakeholder management plan
+> c. Stakeholder RACI Chart
+d. Roles and Responsibilities matrix
+
+Answer: (c) Of all the choices presented, this is the best answer. A RACI chart can be used when conducting stakeholder analysis. A RACI matrix is used to define business analysis stakeholder roles across four designations: Responsible, Accountable, Consulted, and Informed.
+
+9. Which one of the following best describes the tool and technique of user stories as part of stakeholder analysis to be performed by a business analyst?
+
+a. Scope models can show the business analysis team the set of stakeholders external to the solution scope who interact with the solution in some way.
+> b. Stakeholder roles can be used as the basis for actors and roles if the business analysis team has selected the scenarios and use cases modeling technique.
+c. Analysts may use this technique to identify shared characteristics of a particular business analysis stakeholder group.
+d. Stakeholders involved with your efforts can be the source of possible risks, and they can also help the team identify additional risks that may be important downstream.
+
+Answer: (b) User stories allow stakeholder roles to be used as the basis for actors and roles if the business analysis team has selected the scenarios and use cases modeling technique.
+
+10. Beth is the business analyst for her organization and she's working with her team to identify the activities list for the business analysis duties. In order to properly and completely create the activities list, what document should Beth creates first based on the scope of the business analysis work?
+
+> a. Work breakdown structure
+b. RACI
+c. RAM
+d. Risk management plan
+
+Answer: (a) The BABOK recommends decomposing the scope of work to be done in a Work Breakdown Structure, building an activity list, and linking the business analysis work activities in a logical sequence in order to get them done. Work and costs are then estimated, resources are assigned and optimized, and the business analysis team iterates until they have a plan that is good to go. The resulting business analysis plan or plans should easily integrate with the project plans that contain their specific slice of business analysis work.
+
+11. Which one of the following statements best describes the role of a business analyst?
+
+a. A person who performs the set of tasks and techniques used to work as a project manager among stakeholders in order to understand the structure, policies, and operations of an organization and to recommend solutions that enable the organization to achieve its goals.
+b. A person who performs the set of tasks and techniques used to work as a liaison among project managers in order to understand the structure, policies, and operations of an organization and to recommend solutions that enable the organization to achieve its goals.
+c. A person who performs the set of tasks and techniques used to work as a liaison among project manager, project team members, and other business analysts in order to understand the structure, policies, and operations of an organization and to recommend solutions that enable the organization to achieve its goals.
+> d. A person who performs the set of tasks and techniques used to work as a liaison among stakeholders in order to understand the structure, policies, and operations of an organization and to recommend solutions that enable the organization to achieve its goals.
+
+Answer: (d) A business analyst is a person who works as a liaison among stakeholders, not project managers, project teams, and program managers - stakeholders.
+
+12. Marcy is a business analyst for her organization and she's planning the approach she'll take in the business analyst effort. She wants to define how she'll do the business analysis activities, perform stakeholder analysis, and report on her efforts. Based on this information which knowledge is Marcy likely working within?
+
+a. Enterprise analysis
+> b. Business analysis planning and monitoring
+c. Elicitation
+d. Requirement management and communication
+
+Answer: (b) Marcy is planning her business analysis approach, so this is part of the first knowledge area of business analysis planning and monitoring.
+
+13. Which of the following statements are true about plan-driven approach? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. It describes the business analysis activities and focuses on reducing up-front uncertainty.
+> b. It ensures that the solution is fully defined before implementation begins in order to maximize control and minimize risk.
+c. It is preferred while taking an exploratory approach for incremental improvement of an existing solution.
+d. It approaches to business analysis deal with rapid delivery of the business value.
+
+Answer: (a,b) The plan-driven approach describes the business analysis activities and focuses on reducing up-front uncertainty. This approach ensures that the solution is fully defined before implementation begins in order to maximize control and minimize risk. It is preferred when requirements are effectively defined in advance of implementation.
+
+14. You are the business analyst for your organization and are working through the six tasks in the business analysis planning and monitoring checklist. As a business analyst when should you complete the six tasks of the business analysis planning and monitoring?
+
+> a. Throughout the entire project life cycle
+b. During the project prestart phase
+c. During the project initiation
+d. As needed during the project management processes
+
+Answer: (a) The tasks in the Business Analysis Planning and Monitoring knowledge area occur throughout the project life cycle. Many of these tasks are done as a part of pre-project activities as the basis of a project's controlled start. The business analysis deliverables created at the beginning of a project are used to define, govern, and monitor the performance of all other business analysis tasks across the project life cycle.
+
+15. Which task input for project stakeholders is best described as Looking at the organization and how it is sliced and diced, and assists the business analyst in stakeholder analysis activities?
+
+a. Business need
+b. Organizational process assets
+c. Enterprise environmental factor
+> d. Enterprise architecture
+
+Answer: (d) Enterprise architecture stakeholders is best described as Looking at the organization and how it is sliced and diced, and assists the business analyst in stakeholder analysis activities.
+
+16. What plan will describe the stakeholder groups, communication needs, and the level of formality that is appropriate for the requirements?
+
+> a. Business analysis communication plan
+b. Requirements management plan
+c. Scope management plan
+d. Project management plan
+
+Answer: (a) The business analysis communication plan defines who needs what information regarding the requirements, when the information is needed, and how the information is to be presented.
+
+17. Who among the following is responsible for mapping the quality assurance requirements of the company and the stakeholders to the project?
+
+> a. Quality assurance analyst
+b. Project manager
+c. Subject matter expert
+d. Business analyst
+
+Answer: (a) Quality assurance analyst is responsible for mapping the quality assurance requirements of the company and the stakeholders to the project. He ensures that project deliverable adhere to quality standards and scope fulfillment.
+
+18. Which of the following team roles evaluates, reviews, and manages database resources and services in the organization?
+
+> a. Database analyst
+b. Business analyst
+c. Quality assurance analyst
+d. Solution owner
+
+Answer: (a) A database analyst evaluates, reviews, and manages database resources and services in the organization. He is also responsible for developing and implementing database policies and procedures in order to make sure the integrity and availability of databases.
+
+19. Risk identification is an important part of the planning phase. What are the common approaches for identifying risks? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Documentation reviews
+> b. Brainstorming
+> c. Interviewing
+> d. Root cause analysis
+e. Interface analysis
+f. Enterprise analysis
+
+Answer: (a,b,c,d) The risk management plan describes the process for identifying and quantifying project risks and outlines how risks will be addressed or controlled. Risk identification is an important part of the planning phase. Risk identification is performed to identify all the risks involved with the project and to prioritize and analyze the effect each risk has on the project. Following are the common approaches for identifying risks:
+
+20. Which of the following describes the process for identifying and quantifying project risks and outlines how risks will be addressed or controlled?
+
+> a. Risk management plan
+b. Requirements management plan
+c. Scope management plan
+d. Project management plan
+
+Answer: (a) The risk management plan describes the process for identifying and quantifying project risks and outlines how risks will be addressed or controlled.
+
+21. Which of the following is a plan for an exceptional risk that is impractical or impossible to avoid?
+
+a. Scope management plan
+b. Action plan
+> c. Contingency plan
+d. Requirements management plan
+
+Answer: (c) A contingency plan is a plan for an exceptional risk that is impractical or impossible to avoid.
+
+22. Once the requirements risk is determined by the business analyst, a structured approach is followed to manage the risks. Which of the following are determined by the business analysis team for each risk? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Likelihood
+> b. Impact
+> c. Intervention difficulty
+> d. Precision of risk assessment
+> e. Mitigation strategy
+f. Documentation reviews
+g. Interviewing
+
+Answer: (a,b,c,d,e) Once the requirements risk is determined by the business analyst, a structured approach is followed to manage the risks. In a structured approach, identified risks, requirements, and conditions within the organization are reviewed regularly. The business analyst plans risk reviews weekly or biweekly. Proper monitoring of the risk events is needed in order to have an accurate assessment of the determined risks and their status by the business analysis team. 
+
+23. The RGQ Organization utilizes a change log. What is a change log?
+
+a. It is a document that tracks all unauthorized changes to the project solution.
+b. It is a document that records all change requests for the project.
+c. It is a document that tracks the changes that have been received, including their implementation to the project solution.
+> d. It is a document that tracks all characteristics and status of changes that have been received.
+
+Answer: (d) A change log tracks all characteristics of a proposed change request and it status.
+
+24. Mark is the business analyst for his company and he is working with the stakeholders to elaborate on the requirements for a new software design the customers have requested. Mark is working to determine the connection between the proposed solution and how it may (or may not) satisfy the requirements of the customer. What knowledge area is Mark utilizing in this elicitation process?
+
+a. Enterprise analysis
+> b. Requirements analysis
+
+Answer: (b) Mark is working through the requirements analysis to determine if the proposed solution is in alignment with the request of the customer. Requirements Analysis steps you progressively through elaborating and prioritizing the stakeholder and solution requirements for a project. Stakeholder requirements define the needs of stakeholders and how they will interact with a solution. They act as a bridge between high-level business requirements and more-detailed solution requirements.
+
+25. According to the BABOK there are just four tasks in the elicitation knowledge area. Which one of the following is not one of the four tasks of the elicitation knowledge area?
+
+a. Preparing for requirements elicitation
+b. Conducting the elicitation activity
+c. Documenting the elicitation results
+> d. Verifying the outcomes of the solution
+
+Answer: (d) The fourth task is to confirm the elicitation results, not to verify the outcomes of the solution. The question asked was that which one is not one of the four tasks of the elicitation knowledge area.
+
+26. Martha is preparing for a requirements workshop as part of her elicitation process. In her preparation, she wants to review all of the details surrounding the problem and opportunities faced by the business to better interview and ask questions in the workshop. What document should Martha review?
+
+a. Business case
+> b. Business need
+c. Solution scope
+d. Feasibility study
+
+Answer: (b) Martha should review the business need documentation. Business need defines the problem or opportunity being faced by the business. This information is used to determine the information to be elicited when developing business requirements early in the project life cycle.
+
+27. According to the BABOK, elicitation is performed for all types of requirements a business analyst may utilize as part of their roles and responsibilities. As a business analyst, you must know that the four types of requirements to elicit are which one of the following?
+
+> a. Business, stakeholder, solution, and transition
+b. Project, Product, solution, and transition
+c. Business, stakeholder, solution, and implementation
+d. Business, Project, solution, and Implementation
+
+Answer: (a) The business analyst must elicit requirements for business, stakeholder, solution, and transition.
+
+28. There are four types of elicitation activities that business analysts must complete as part of their roles and responsibilities. Which one of the following is not an elicitation task that the business analyst may complete as part of their roles and responsibilities?
+
+a. Preparing for requirements elicitation
+b. Conducting the elicitation activity
+c. Documenting the elicitation results
+> d. Writing the project scope statement
+
+Answer: (d) Writing the project scope statement is a project management process, not a business analyst activity. The correct tasks are: preparing for requirements elicitation, conducting the elicitation activity, documenting the elicitation results, and confirming the elicitation results.
+
+29. Beth is the business analyst for her organization and she's working with Mark, a data analyst, for a new initiative. Mark wants to know when elicitation for the requirements takes place and when Beth will be done with the process. Which one of the following statements best describes when elicitation takes place in the project?
+
+a. The tasks in the Elicitation knowledge area begin before the project life cycle and typically end during the more detailed requirements development phase of the project.
+> b. The tasks in the Elicitation knowledge area begin early in the project life cycle and typically peak during the more detailed requirements development phase of the project.
+c. The tasks in the Elicitation knowledge area begin and end before the project initiation phase.
+d. The tasks in the Elicitation knowledge area must end before project execution.
+
+Answer: (b) The correct answer is the elicitation tasks begin early in the project life cycle and peak during the detailed requirement development phase. Technically, elicitation can happen throughout the project as changes to the requirements may be introduced.
+
+30. You are the business analyst for your organization and have identified a new initiative for a software development project. Based on the set of stakeholders, you and the management team have identified that you need to begin defining the need, set of requirements, and other information for the project work. Which one of the following tasks is the first task you should do as the business analyst?
+
+> a. Organize the stakeholder resources
+b. Define the project solution
+c. Write the product scope statement as a baseline
+d. Interview the stakeholders one-on-one
+
+Answer: (a) The first task in the Elicitation knowledge area is where you prepare a detailed schedule of your elicitation activities.
+
+31. You are the business analyst for your organization and you've identified the stakeholders in your organization. As part of this identification, you've identified the stakeholder list, roles and responsibilities, the business case, the solution scope, and what other element is needed for the input to the prepare for elicitation process?
+
+> a. Business need
+b. Project charter
+c. Executive sponsor
+d. Supporting documentation
+
+Answer: (a) Business need defines the problem or opportunity being faced by the business. This information is used to determine the information to be elicited when developing business requirements early in the project life cycle.
+
+32. What document should you reference to define the costs and benefits of the proposed project as part of the preparation for elicitation?
+
+a. Business need
+> b. Business case
+c. Solution scope
+d. Project management plan
+
+Answer: (b) The business case assesses the costs and benefits of a proposed project. This business framework is used along with the solution scope to determine the information to be elicited when developing stakeholder, solution, and transition requirements.
+
+33. Harry is the business analyst for his organization and he's working with you and other stakeholders to begin the elicitation process. Harry recommends that you begin the process by starting with some lateral thinking. What is lateral thinking?
+
+a. Focus groups
+b. Interviews
+> c. Brainstorming
+d. Surveys
+
+Answer: (c) Brainstorming is also known as lateral thinking as one person's comments and ideas can help other stakeholders also think of ideas and requirements
+
+34. Gary is a business analyst for his organization and he's discovering that the technicians, information technology specialist, the customer, and other stakeholders use many acronyms and terms that are not synonymous across the list of stakeholders. For consistency sake, what tool can Gary use to ensure proper communications of the elicitation terms?
+
+> a. Data dictionary and glossary
+b. Defined lexicon
+c. Organizational process assets
+d. Style guide
+
+Answer: (a) It is a best practice to start your business glossary immediately during that project's controlled start and to keep it updated throughout the project life cycle. Much of the information that goes into the glossary will be a result of your business, stakeholder, solution, and transition requirements development efforts. Data dictionaries are a bit more technical in nature. A data dictionary is used to define data elements, their meanings, and their allowable values.
+
+35. You are the business analyst for your organization and you've been tasked with creating a prototype. You are to create a mock-up of the new software system that will show stakeholders how the software will look and feel, though it will provide no real capabilities for requirements other than a shallow look at what the software may look like. What type of prototype are you to create?
+
+> a. Horizontal
+b. Vertical
+c. Evolutionary
+d. Temporary
+
+Answer: (a) This is an example of a horizontal functional scope prototype. Typically, no business logic is running under the covers of the mocked-up user interface.
+
+36. Which of the following helps in assessing the costs and benefits of a proposed project?
+
+> a. Business case
+b. Business need
+c. Solution scope
+d. Stakeholder List, Roles, and Responsibilities
+
+Answer: (a) The business case helps in assessing the costs and benefits of a proposed project. This business framework is used along with the solution scope for determining the information to be elicited when developing stakeholder, solution, and transition requirements.
+
+37. Which of the following is the practice of obtaining the requirements of a system from users, customers, and other stakeholders?
+
+> a. Elicitation
+b. Enterprise analysis
+c. Business Analysis Planning and Monitoring
+d. Requirements Management and Communication
+
+Answer: (a) Elicitation is the practice of obtaining the requirements of a system from users, customers, and other stakeholders. The practice is also sometimes referred to as requirements gathering.
+
+38. Which of the following is especially useful in clarifying roles and responsibilities in cross-functional/departmental projects and processes?
+
+> a. Responsibility assignment matrix
+b. Coverage matrix
+c. Requirements trace matrix
+d. Project metric
+
+Answer: (a) A responsibility assignment matrix (RAM), also known as RACI matrix or Linear Responsibility Chart (LRC), describes the participation by various roles in completing tasks or deliverables for a project or business process. It is especially useful in clarifying roles and responsibilities in cross-functional/departmental projects and processes.
+
+39. Which of the following techniques promotes creative thinking about the capabilities of a new solution and enables out-of-the box thinking in a nonjudgmental environment?
+
+> a. Brainstorming
+b. Document analysis
+c. Focus groups
+d. Interface analysis
+
+Answer: (a) Brainstorming is a group creativity technique that identifies risks, ideas, or solutions to issues by using a group of team members or subject-matter experts. The brainstorming technique promotes creative thinking about the capabilities of a new solution and enables out-of-the box thinking in a nonjudgmental environment. A productive brainstorming session consists of two parts: idea generation and idea reduction.
+
+40. You are the business analyst for your organization. Marcy is your supervisor and she has just informed you that a key stakeholder has demanded a requirement be added to your solution. You agree and allow the requirement to be added to the solution scope. You document the change. What activity must you do because of the added requirement?
+
+a. Charge the stakeholder for the additional requirements.
+b. Complete a change request form.
+> c. Baseline the requirements.
+d. Approve the solution scope.
+
+Answer: (c) Requirements should be baselined when changes are added. Because the change has been approved, it is now part of the solution scope and your delivery of the solution should reflect the added requirement. If you do not baseline the requirements, then final delivery of the solution will be different than what the requirements call for.
+
+41. Tom is the business analyst for his organization and is about to complete the manage solution scope and requirements as part of his business analysis duties. His assistant, Jennifer, is helping Tom and is collecting the required inputs for this process. Jennifer needs to collect four inputs. Which one of the following is not one of the three inputs Jennifer will need to gather for Tom?
+
+a. Requirements management plan
+b. Solution scope
+c. Stakeholder list, role, and responsibilities
+> d. Requirements trace matrix
+
+Answer: (d) The requirements trace matrix is a table that tracks requirements from their identification through the business analysis duties, to project execution. It is not one of the four inputs needed for the manage solution scope process. The fourth input that Jennifer needs to gather is the stakeholder, solution, or transition requirements.
+
+42. Which of the following steps should the business analyst perform to sequence project work activities for designing and deploying the capabilities that are found in the requirements?
+
+a. Producing the traced requirements
+> b. Creating and maintaining key dependencies and relationships
+c. Producing maintained and reusable requirements
+d. Preparing a Requirements Package
+
+Answer: (b) Creating and maintaining key dependencies and relationships helps the business analyst in sequencing project work activities in order to design and deploy the capabilities that are found in the requirements. It also helps in properly distributing requirements to solution components.
+
+43. Which of the following permits the business analyst to identify and document the lineage of each requirement that includes its relationship to other project requirements, to work products, and to the solution components?
+
+a. Requirements workshop
+> b. Requirements traceability
+c. Structured walkthrough
+d. Requirements package
+
+Answer: (b) Requirements traceability permits the business analyst to identify and document the lineage of each requirement, which includes its relationship to other project requirements, to work products, and solution components.
+
+44. Which of the following knowledge areas has the set of requirements communication and management tasks that helps in ensuring that the right people are involved in developing, understanding, and approving the project requirements?
+
+a. Enterprise Analysis
+b. Solution Assessment and Validation
+c. Business Analysis Planning and Monitoring
+> d. Requirements Management and Communication
+
+Answer: (d) Communicating information about the requirements is required to be developed across the project life cycle. The Requirements Management and Communication knowledge area contains the set of requirements communication and management tasks, which helps in ensuring that the right people are involved in developing, understanding, and approving the project requirements. Also, the requirements themselves should be accessible and managed during the requirements development work and the project life cycle.
+
+45. You are the business analyst for a large software development project. There are several issues that must be resolved by certain dates or the problem will prevent the project from advancing. What technique can you use to track problems with the requirements?
+
+> a. Problem tracking
+b. Baselining
+c. Issue tracking
+d. RTM
+
+Answer: (a) The technique you'll use is simply problem tracking. This technique allows the business analyst to manage any issues identified within requirements by stakeholders and to ensure that those issues are resolved.
+
+46. Which of the following Requirements Management and Communication tasks can look for review and approval on the communicated project requirements?
+
+> a. Communicate requirements
+b. Prepare requirements package
+c. Maintain requirements for reuse
+d. Manage requirements traceability
+
+Answer: (a) Work performed as part of the Requirements Management and Communication knowledge area organizes and structures the project requirements appropriately. After organizing the project requirements, they can be shared with key stakeholders for review, understanding, and approval. This task holds the business analyst responsible for effectively communicating requirements to make sure the stakeholder understands.
+
+47. Which of the following is another name for an organized peer-level review of a requirements document?
+
+a. Focus group
+b. Brainstorming
+> c. Structured walkthrough
+d. Requirements workshop
+
+Answer: (c) Structured walkthrough is a tool used to analyze the system design in order to make sure that it addresses all requirements. It is a mean of ensuring conformity to standard.
+
+48. Which of the following is a specific business analysis process output that the team plans to deliver?
+
+a. Requirements trace matrix
+b. Requirements package
+c. Work product
+> d. Deliverable
+
+Answer: (d) Deliverables are specific business analysis process outputs that the business analyst or the business analysis team plans to deliver.
+
+49. Robert is the business analyst for his organization and he's working with several stakeholders to identify the business need for an opportunity. Robert needs to identify the stakeholder that will be responsible for authorizing the actions needed in order to meet the identified business need. Which stakeholder does Robert need to identify?
+
+a. Customer
+b. Regulator
+> c. Sponsor
+d. Implementation Subject Matter Expert
+
+Answer: (c) A sponsor is a person or group responsible for making sure the business need is met by authorizing the needed actions. The sponsor is usually someone with authority over the needed resources to meet the business need.
+
+50. What does the T in SWOT analysis mean?
+
+> a. Threats
+b. Time
+c. Test
+d. Trial
+
+Answer: (a) SWOT is a business analysis technique to measure several facets of a solution, component, or resource. SWOT means strengths, weakness, opportunities, and threats.
+
+51. Enterprise analysis provides many things for an organization. All of the following are tasks included in enterprise analysis except for which one?
+
+a. Define business need
+b. Assess capability gaps
+c. Determine solution approach
+> d. Solution performance assessment
+
+Answer: (d) Solution performance assessment is not a task of enterprise analysis, it is in an input to this process. There are five tasks for enterprise analysis: define business need, assess capability gaps, determine solution approach, define solution scope, and define business case.
+
+52. The tasks included in the Enterprise Analysis knowledge area produce various key business analysis deliverables, which are the building blocks of the project's business requirements. Which of the following do these deliverables include? Each correct answer represents a complete solution. Choose three.
+
+> a. Business need
+> b. Required capabilities
+c. Coverage matrix
+> d. Business case
+
+Answer: (a,b,d) The Enterprise Analysis knowledge area defines and documents the business requirements for a project. The business requirements justify why a particular project should be initiated to deal with a particular business requirement. Business requirements provide much-needed context for detailed requirements activities. The business analyst checks out the organization's existing capabilities that are related to a business need, problem, and opportunity. After this, he defines a feasible solution scope and approach for addressing the situation.
+
+53. Which of the following will be produced when the business analyst assesses the capability gaps between current and new capabilities of the organization?
+
+a. Solution approach
+b. Business need
+> c. Required capabilities
+d. Business case
+
+Answer: (c) After identifying the business needs, the business analyst should identify the required capabilities that can help in achieving the business needs and delivering the preferred outcomes. The business analyst should determine whether the organization's current capabilities are suitable for achieving the business needs.
+
+54. Which of the following steps the business analyst should perform to determine the solution approach for achieving a business need and deliver the required new capabilities? Each correct answer represents a part of the solution. Choose three.
+
+a. Document the assumptions
+> b. Identify alternative solution options
+> c. Generate assumptions and constraints
+> d. Rank and select the solution approach
+e. Analyze current capabilities
+
+Answer: (b,c,d) The following steps are performed to determine the solution approach for achieving a business need and deliver the required new capabilities: Identify alternative solution options; Generate assumptions and constraints; and Rank and select the solution approach.
+
+55. Which of the following inputs are used to determine the solution approach for achieving a business need and deliver the required new capabilities? Each correct answer represents a part of the solution. Choose three.
+
+a. Business case
+> b. Business need
+> c. Organizational Process Assets (OPAs)
+> d. Required capabilities
+
+Answer: (b,c,d)The task inputs used to determine the solution approach for achieving a business need and deliver the required new capabilities are as follows:  Business need; Organizational Process Assets (OPAs);  Required capabilities
+
+56. You are a business analyst for your organization. Management has asked you to create the solution scope for an identified problem. In order to complete this task, you'll need three elements. All of the following are elements you'll need in order to write the solution scope except for which one?
+
+a. Solution scope definition
+b. Implementation approach
+c. Dependencies
+> d. Work breakdown structure
+
+Answer: (d) You will not need the work breakdown structure (WBS) in order to create the solution scope. The WBS is a decomposition of the project scope into smaller, achievable deliverables.
+
+57. Which one of the following is the most accurate definition of the solution scope?
+
+a. It determines if an organization can justify the investment required to deliver the proposed solution.
+b. It determines the things that are believed to be true in the solution but they have not yet been proven to be true.
+> c. It defines what must be delivered in order to meet the business need.
+d. It defines the business need, identified key stakeholders, describes the positive impact of the solution.
+
+Answer: (c) The solution scope clearly defines what must be delivered in order to meet the business need.
+
+58. Which solution scope technique can help the business analyst understand the scope of the work by breaking down the scope into smaller work products?
+
+> a. Functional decomposition
+b. Interface analysis
+c. Scope modeling
+d. User stories
+
+Answer: (a) Functional decomposition is the process of breaking down the scope into smaller, more manageable deliverables. It ensures that all of the active characteristics of the proposed solution are identified, documented, and capable of being tracked.
+
+59. Which of the following stakeholder roles provides assistance in allocating capabilities to solution components while defining solution scope?
+
+a. Project manager
+> b. Implementation SME
+c. Sponsor
+d. Business analyst
+
+Answer: (b) Detailed release planning and component allocation activities should be integrated into the project plan. The implementation SME provides assistance in allocating capabilities to solution components.
+
+60. You are the business analyst for your organization and management wants to know when they can expect to reach management horizon based on current project performance. What term is also known as management horizon?
+
+a. Present value
+> b. Payback period
+c. Net present value
+d. Breakeven point in time
+
+Answer: (b) The payback period describes the point in time where the project's value equates to the project investment. The payback period is also known as management horizon.
+
+61. Over time technology will be superseded by more advanced solutions. When you are considering replacing technology there are four primary approaches to considering the replacement of the technology in regard to the investment that's already been spent on the outdated or fading technology. Which one of the following is not an issue to consider when replacing technology?
+
+a. Ongoing cost versus initial investment
+b. Opportunity cost
+c. Necessity
+> d. Future value of investment
+
+Answer: (d) Future value of investment is not an issue or consideration of the replacement of known technologies. You'll likely consider one to all of the following issues: Ongoing cost versus initial investment, opportunity cost, necessity, and sunk costs.
+
+62. You are working as a senior business analyst in an organization. Ralph is also working with you. You decide to move a low priority requirement above a high priority requirement because it is needed to be implemented before some of the more important requirements. Ralph disagrees with your decision because ranking of the requirements is always done based on their level of difficulty. Who is correct and why?
+
+a. You are correct because you are the senior business analyst.
+> b. You are correct because a low priority requirement is placed above a higher priority requirement if it is needed to be implemented first.
+c. Ralph is correct because the requirements are always ranked according to their importance and business value.
+d. Ralph is correct because the sequencing of requirements is done according to the project activity list.
+
+Answer: (b) The ranking of the requirements based on their level of difficulty is fine, but you may also include a requirement's relationship to other requirements. If higher priority requirements cannot be completed until the lower priority requirements are done, then the requirements should be ordered as such for the order of implementation.
+
+63. You are the business analyst for a new project. Part of this project is for the project team to manually install new workstations through the company's campus. Based on your research you have determined that the project team can install 25 new workstations per hour. Since there is a fixed amount of time that these workstations need to be installed you are considering adding additional labor for the implementation. You are also considering to adjust the prioritization of the project requirements based on the amount of workstations the project team can install per hour. What does the 25 workstations per hour represent in this scenario?
+
+a. Planning
+> b. Timeboxing
+c. Report project
+d. Parametric estimate
+
+Answer: (b) Timeboxing describes the amount of work that the project team is capable of completing in a set period of time.
+
+64. Which of the following describes the amount of work that the project team is capable of completing in a set time period?
+
+a. Decision analysis
+b. MOSCOW analysis
+> c. Timeboxing
+d. Voting
+
+Answer: (c) Timeboxing describes the amount of work that the project team is capable of completing in a set time period. Timeboxing and budgeting helps in prioritizing requirements for implementation that is based on the allocation of a fixed resource, such as time or money.
+
+65. What is the term used to describe the cost of the solution after the solution has been implemented in production by a vendor?
+
+a. Total ownership costing
+> b. Total cost of ownership
+c. Lifecycle maintenance fees
+d. Sustainability fees
+
+Answer: (b)The total cost of ownership (TCO) is a financial estimate designed to help consumers and enterprise managers assess direct and indirect costs. It is used in many organizations. TCO tries to offer a statement on the financial impact of deploying information technology during its whole life-cycle.
+
+66. Which of the following information should the business analyst maintain in order to maintain the baselined requirements? Each correct answer represents a part of the solution. Choose three.
+
+> a. Description of the requirements change
+> b. Name of the person making the change
+> c. Reason why the changes were made
+d. Higher-level capabilities or features
+
+Answer: (a,b,c) Baselined requirements are considered to be the basis for future project work. Future changes to the requirements can be recorded and tracked if the business analyst has a baseline state for the project requirements. Changes made to the baselined requirements should go through a formal change control process versus the changes that are just being added.
+
+67. Which of the following tasks is performed by business analyst in the Requirements Analysis knowledge area? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Prioritize requirements
+> b. Organize requirements
+> c. Verify requirements
+d. Confirming elicitation results
+
+Answer: (a,b,c) The Requirements Analysis knowledge area focuses on analyzing the stated requirements from the elicitation efforts and building the real stakeholder or solution requirements for the project.
+
+68. What are the key inputs required to validate requirements? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Business Case
+> b. Stakeholder, Solution, or Transition Requirements (Verified)
+c. Stakeholder Concerns
+d. Requirements Structure
+
+Answer: (a,b) Validating requirements make sure that the requirements support the business requirements and the business objectives for the project. In order to be valid, the requirements should contribute directly or indirectly to the business case. Requirements validation is an ongoing across the project life cycle; it helps in ensuring that each level of detail a user adds to his/her requirements aligns with the big picture.
+
+69. As a business analyst you must understand the difference and effect assumptions and constraints may have on a business solution and the assumption is:
+
+a. The solution must work with existing software.
+b. The solution should be completed by December 2.
+> c. The solution will cost less than $250,000.
+d. The solution must satisfy the entire requirement as defined in the project scope.
+
+Answer: (c) The best choice of an assumption is that the solution will cost less than $250,000. Assumptions are things that are thought to be true, but not proven to be true. A constraint is a must have - such as a deadline or a maximum budget.
+
+70. You are the business analyst for your organization. Management realizes that a proposed solution has risks that may cause the entire project to fail. They would like you to prioritize the requirements with maximum risk first so that if the project fails, there is little loss of capital in the project implementation. What requirements prioritization approach is management asking you to create in this instance?
+
+> a. Business or technical risk
+b. Implementation difficulty
+c. Relationship to other requirements
+d. Likelihood of success
+
+Answer: (a) Management is asking you to prioritize the requirements based on their risks. The riskiest components are attempted first; if these fail, the project can be scrapped with relatively little loss of investment or time.
+
+71. There are four different assessments that you will create as a business analyst operating in the solution assessment and validation knowledge area. Which one of the following best describes the organizational readiness assessment?
+
+a. It is how the operational solution is performing relative to business goals and objectives.
+> b. It describes stakeholder readiness to accept the change associated with a solution and their ability to use the solution effectively.
+c. It will assess the solution's ability to meet the business need at an acceptable level of quality.
+d. It is the value delivered by each proposed solution and recommends the best solution.
+
+Answer: (b) The organizational readiness describes stakeholder readiness to accept the change associated with a solution and their ability to use the solution effectively.
+
+72. You are the business analyst for your organization and you're currently assessing multiple proposed solutions for your organization. In your assessment, you will first look to determine if the proposed solution actually satisfies the business need and what other component to determine if the proposed solution is a good choice?
+
+a. Cost
+b. Schedule
+> c. Value
+d. Implementation
+
+Answer: (c) The second factor you should determine is if the proposed solution provides value to the organization. Value means the relationship of the cost, schedule, and implementation to the rewards and return the investment will bring.
+
+73. Jen is the business analyst for her organization and she's currently assessing multiple solutions as part of the solution assessment and validation task. The solutions are complex and time consuming to evaluate. Which one of the following methods would you recommend to Jen to better assess multiple solutions?
+
+> a. Create a scoring and weighting system for the multiple solutions.
+b. Choose the most important business need to measure against all solutions.
+c. Create a rule to filter out solutions, such as cost or implementation effort.
+d. Jen should only assess one solution at a time.
+
+Answer: (a) The best answer is that Jen should create a scoring and weighting system to measure all proposed solutions against.
+
+74. You are trying to determine the cost effectiveness of buying versus building a solution for your company. If you buy the solution, the vendor will charge you $55,000 and charge a $987 monthly service fee. If you build the solution, the initial costs will be $76,000 and your monthly support fee will be $850. How long will it take your internal solution to break even in relation to the build solution?
+
+a. 6 months
+b. 25 months
+c. 107 months
+> d. 153 months
+
+Answer: (d) To find this answer, you'll find the difference of the out-of-pocket expenses for both solutions, which is $21,000. Then you'll find the difference of the monthly support fees, which is $137. Then you'll divide the $21,000 by $137 for a value of 153.28 months. In this example, it will take a long time for the internal solution to be a better choice than the vendor's solution.
+
+75. You are the business analyst for your organization and you've suggested a new operating system for all employees in the organization. You want to reduce the problems and costs of supporting multiple operating systems throughout the company and your vision is to standardize the operating system for all users. Management asks you what affect does this have on the existing business processes, policies, and rules, roles and responsibilities, software applications, and how the organization communicates internally and externally. What is management actually asking you to define?
+
+a. The risks with the solution.
+> b. The solution components.
+c. The constraints with the solution.
+d. The enterprise environmental factors.
+
+Answer: (b) Solution components are all of the parts and pieces of the solution that span across the entire organization.
+
+76. Your technical solution has caused new business rules to be implemented in the organization. These new business rules affect the security, data access, and physical access to the technology in the organization. What type of a business rule has your solution created?
+
+a. Organizational
+b. Security
+> c. Operative
+d. Structural
+
+Answer: (c) This is an example of an operative business rule because it affects the operations of the organization. Operative business rules guide the actions of people working in the organization and are enforced by the organization as a matter of policy.
+
+77. You are the business analyst for your organization and are preparing to complete the allocate requirements process. This process assigns stakeholder and solution requirements to solution components and to releases. One of the elements of this process is solution components. All of the following are solution components except for which one?
+
+a. Business policies and business rules
+b. Business processes to be performed and managed
+> c. Assessment of proposed solution
+d. Software applications and application components used in the solution
+
+Answer: (c) The assessment of the proposed solution is not a solution component.
+
+78. Which of the following outputs can be produced by the solution validation efforts that trigger the project in the first place? Each correct answer represents a part of the solution. Choose three.
+
+> a. Identified defects
+> b. Mitigating actions
+> c. Solution validation assessment
+d. Organizational readiness assessment
+
+Answer: (a,b,c) The solution validation efforts produce the following outputs:  Identified defects: Identified defects are the problems found in a created solution. They should be logged, reviewed, and resolved. Mitigating actions: Mitigating actions are processes taken to reduce the impacts of an identified defect. Solution validation assessment: The solution validation assessment defines whether the constructed solution achieves the business and project requirements at an acceptable level of quality.
+
+79. Which of the following elements are involved in evaluating solution performance? Each correct answer represents a part of the solution. Choose three.
+
+a. Address any conflicts and issues
+> b. Validate the solution metrics
+> c. Understand the value delivered by the solution
+> d. Consider solution replacement or elimination
+
+Answer: (b,c,d) The following elements are involved in evaluating solution performance: Understand the value delivered by the solution, validate the solution metrics, consider solution replacement or elimination
+
+80. Which of the following stakeholder roles reviews the results of the solution performance assessment to verify whether any improvement to the solution have to be made?
+
+a. Domain SME
+> b. Project sponsor
+c. Business analyst
+d. Regulator
+
+Answer: (b) From a business point of view, the project sponsor is responsible for solution operations. He reviews the results of the solution performance assessment to verify whether any improvement to the solution have to be made.
+
+81. Which of the following inputs determine whether the outputs of the solution fall within acceptable limits?
+
+a. Solution scopes
+b. Validated solutions
+> c. Prioritized and validated requirements
+d. Stakeholder concerns
+
+Answer: (c) The prioritized and validated requirements of the project are used to determine whether the outputs of the solution fall within acceptable limits. These requirements are associated with acceptance criteria, which define the acceptable limits to measure against.
+
+82. The identified defects need instant resolution or can be mitigated after an expected time. Which of the following ways can be followed to mitigate the impact of a defect using a workaround? Each correct answer represents a complete solution. Choose three.
+
+> a. Add quality control checks
+> b. Introduce new manual processes
+> c. Remove support for exceptions and errors
+d. Adopt informal policies and procedures
+e. Record additional information
+
+Answer: (a,b,c) The identified defects should be reviewed and assessed. Some of them need instant resolution and others can be mitigated after an expected time. The following ways can be followed to mitigate the impact of a defect using a workaround: Add quality control checks, Introduce new manual processes, Remove support for exceptions and errors
+
+83. As part of your role as a business analyst you'll need to prepare the organization for the change your solution brings about. All of the following methods are acceptable preparedness for change except for which one?
+
+a. Training
+> b. Enterprise architecture
+c. Surveys
+d. Focus groups
+
+Answer: (b) The enterprise architecture is actually an input to the task of assessing organizational readiness. So, this choice is correct.
+
+84. Beth is the business analyst for her organization and she's been working with the stakeholders for a new technical solution that will be implemented throughout her company. In her analysis she's learnt that the end users of the solution upset by the changes, are reluctant to embrace the new technology, and feel that they were not informed about the change the solution will bring. This scenario best describes which one of the components of assessment findings?
+
+> a. Cultural assessment
+b. Operational assessment
+c. Technical assessment
+d. Functions
+
+Answer: (a) The cultural part of your assessment focuses on the willingness of your key stakeholders to change.
+
+85. A new solution has been proposed in the BHQ Company for how they do their work. This will affect how data is entered into their information systems, how the data is utilized, and how the data moves through and out of the system. If you were to draw a diagram tracking the data what would you be creating?
+
+a. Pareto chart
+> b. Data Flow Diagram
+c. Data Analysis Sequence
+d. Critical path
+
+Answer: (b) Data flow diagrams can be very helpful as you identify activities that will change when the new solution gets implemented.
+
+86. As a business analyst you may not be the actual trainer or instructional designer of a course for the end users of a solution, but you'll often need to consider the educational deficits your solution may cause. When focusing on training, what is the best method to keep users engaged in the learning?
+
+a. Offer incentives for completing the training
+b. Have an interesting instructor to teach a fun class
+c. Take the class as an end user to see their perspectives
+> d. Relate the course information to roles and responsibilities
+
+Answer: (d) Of all the choices, the best answer is to relate the course information to the learners' roles and responsibilities. If the learners can see why the class is important to their lives, they'll be more engaged in the classroom.
+
+87. In order to validate the solution, you'll need just two inputs for this task. Which two?
+
+a. Requirement and the Solution
+> b. Requirements (prioritized and validated) and Solution (constructed)
+c. Stakeholder analysis and Project charter
+d. Project scope statement and Business rules
+
+Answer: (b) The best answer is that you'll need the Requirements (prioritized and validated) and the Solution (constructed).
+
+88. You are the business analyst for your organization and you're working with several stakeholders regarding a solution that's being implemented. These stakeholders are having an argument about the functionalities of the solution. They believe that the solution isn't functioning as planned. What term best describes the disagreement in this scenario?
+
+> a. Issue
+b. Defect
+c. Requirements gap
+d. Escalation
+
+Answer: (a) Issues are matters that are in dispute or question as in this scenario.
+
+89. You are the business analyst for your organization and the project manager has reported that an error in the solution has actually been deployed. This error, while minor, will cause some frustration with users. You create a plan to manage the error and assure users the problem will be fixed. What action have you taken in this instance?
+
+a. Transference
+> b. Mitigation
+c. Sharing
+d. Avoidance
+
+Answer: (b) This is an example of mitigation as it has reduced the probability and/or impact of the issue in the solution.
+
+90. Management has asked you to collect the metrics for a quantitative measurement of the solution you've implemented. This is part of the evaluation of the solution performance. Which specific action of the task is management asking you to do?
+
+> a. Understand the value delivered by the solution
+b. Validating the solution metrics
+c. Considering the solution replacement
+d. Ongoing cost versus initial investment
+
+Answer: (a) You need to collect the metrics that describe solution performance. Some software applications may provide these metrics to you automatically. Other types of solutions will require manual collection of quantitative and qualitative solution metrics for evaluation.
+
+91. Which of the following imposes limitations on a particular solution?
+
+> a. Constraint
+b. Attribute
+c. Priority
+d. Assumption
+
+Answer: (a) Constraints impose limitations on the solution that does not support the business or stakeholder needs. It is a kind of restriction set that a solution must follow.
+
+92. You work as a Business Analyst. You are working on a project GHT in which the timing of the business analysis work is early in the project life cycle. Which of the following business analysis approaches will you use for your project?
+
+a. Task-driven
+b. Change-driven
+> c. Plan-driven
+d. Phase-driven
+
+Answer: (c)The plan-driven approach describes the business analysis activities and focuses on reducing up-front uncertainty. This approach ensures that the solution is fully defined before implementation begins in order to maximize control and minimize risk. It is preferred when requirements are effectively defined in advance of implementation.
+
+93. Which of the following roles is responsible for ensuring the compatibility of business analysis plan with the project plan?
+
+> a. Project manager
+b. Risk manager
+c. Business analyst
+d. Infrastructure analyst
+
+Answer: (a) A project manager work as a professional in the field of project management. Project managers are responsible for the planning, execution, and closing of any project. Project manager works with the business analyst, executive sponsor, and key stakeholders for gaining approval on project deliverables. He is also responsible for ensuring that the business analysis plan is compatible with the project plan.
+
+94. You are the business analyst for your organization. You are currently with several key stakeholders as part of the determination of which business analysis approach is most appropriate for the current project. Which stakeholder is not considered when completing the business analysis planning and monitoring task to determine a business analysis approach?
+
+a. Project manager
+b. Tester
+c. Regulator
+> d. Functional management
+
+Answer: (d) Functional management describes the layer of management that often oversees business analysts, project manager, and lines of business. This layer is not considered a key stakeholder for the selection of the business analysis approach unless this layer is directly involved in the project or problem the business analyst is working on. If the functional management is considered a stakeholder then they are considered to be a customer, domain subject matter expert, end user, or supplier.
+
+95. You are the business analyst for your organization and are preparing to conduct stakeholder analysis. As part of this process you realize that you'll need several inputs. Which one of the following is NOT an input you'll use for the conduct stakeholder analysis task?
+
+a. Business need
+b. Enterprise architecture
+c. Organizational process assets
+> d. Enterprise environmental factors
+
+Answer: (d) There are just three inputs to the conduct stakeholder analysis process: the business need, enterprise architecture, and organizational process assets. Enterprise environmental factors describe the rules and policies of an organization.
+
+96. Mark is the business analyst for his company and he is working with the stakeholders to elaborate on the requirements for a new software design the customers have requested. Mark is working to determine the connection between the proposed solution and how it may (or may not) satisfy the requirements of the customer. What knowledge area is Mark utilizing in this elicitation process?
+
+a. Enterprise analysis
+> b. Requirements analysis
+c. Solution assessment and validation
+d. Feasibility studies
+
+Answer: (b) Mark is working through the requirements analysis to determine if the proposed solution is in alignment with the request of the customer. Requirements Analysis steps you progressively through elaborating and prioritizing the stakeholder and solution requirements for a project. Stakeholder requirements define the needs of stakeholders and how they will interact with a solution. They act as a bridge between high-level business requirements and more-detailed solution requirements.
+
+97. Martha is preparing for a requirements workshop as part of her elicitation process. In her preparation, she wants to review all of the details surrounding the problem and opportunities faced by the business to better interview and ask questions in the workshop. What document should Martha review?
+
+a. Business case
+> b. Business need
+c. Solution scope
+d. Feasibility study
+
+Answer: (b) Martha should review the business need documentation. Business need defines the problem or opportunity being faced by the business. This information is used to determine the information to be elicited when developing business requirements early in the project life cycle.
+
+98. According to the BABOK, elicitation is performed for all types of requirements a business analyst may utilize as part of their roles and responsibilities. As a business analyst, you must know that the four types of requirements to elicit are:
+
+> a. Business, stakeholder, solution, and transition
+b. Project, Product, solution, and transition
+c. Business, stakeholder, solution, and implementation
+d. Business, Project, solution, and Implementation
+
+Answer: (a) The business analyst must elicit requirements for business, stakeholder, solution, and transition.
+
+99. There are four types of elicitation activities that business analysts must complete as part of their roles and responsibilities. Which one of the following is not an elicitation task that the business analyst may complete as part of their roles and responsibilities?
+
+a. Preparing for requirements elicitation
+b. Conducting the elicitation activity
+c. Documenting the elicitation results
+> d. Writing the project scope statement
+
+Answer: (d) Writing the project scope statement is a project management process, not a business analyst activity. The correct tasks are: preparing for requirements elicitation, conducting the elicitation activity, documenting the elicitation results, and confirming the elicitation results.
+
+100. Beth is the business analyst for her organization and she's working with Mark, a data analyst, for a new initiative. Mark wants to know when elicitation for the requirements takes place and when Beth will be done with the process. Which one of the following statements best describes when elicitation takes place in the project?
+
+a. The tasks in the Elicitation knowledge area begin before the project life cycle and typically end during the more detailed requirements development phase of the project.
+> b. The tasks in the Elicitation knowledge area begin early in the project life cycle and typically peak during the more detailed requirements development phase of the project.
+c. The tasks in the Elicitation knowledge area begin and end before the project initiation phase.
+d. The tasks in the Elicitation knowledge area must end before project execution.
+
+Answer: (b) The correct answer is the elicitation tasks begin early in the project life cycle and peak during the detailed requirement development phase. Technically, elicitation can happen throughout the project as changes to the requirements may be introduced.
+
+101. You are the business analyst for your organization and have identified a new initiative for a software development project. Based on the set of stakeholders, you and the management team have identified that you need to begin defining the need, set of requirements, and other information for the project work. Which one of the following tasks is the first task you should do as the business analyst?
+
+> a. Organize the stakeholder resources
+b. Define the project solution
+c. Write the product scope statement as a baseline
+d. Interview the stakeholders one-on-one
+
+Answer: (a) The first task in the Elicitation knowledge area is where you prepare a detailed schedule of your elicitation activities.
+
+102. You are the business analyst for your organization and you've identified the stakeholders in your organization. As part of this identification, you've identified the stakeholder list, roles and responsibilities, the business case, the solution scope, and what other element is needed for the input to the prepare for elicitation process?
+
+> a. Business need
+b. Project charter
+c. Executive sponsor
+d. Supporting documentation
+
+Answer: (a) Business need defines the problem or opportunity being faced by the business. This information is used to determine the information to be elicited when developing business requirements early in the project life cycle.
+
+103. All of the following are techniques that can be used to specify or model requirements except for which one?
+
+a. Organization modeling
+b. State diagrams
+c. Data modeling
+> d. Work breakdown structure creation
+
+Answer: (d) The Work breakdown structure creation is generally a decomposition of the scope, not a model of the identified requirements.
+
+104. You are the business analyst for the HND organization and you're creating a use case model for your organization. In this model, you'll show how network engineers will use your proposed solution as part of their role in the organization. In a use case scenario, what term is given to stakeholders in the scenario?
+
+a. Principles
+b. Users
+c. Interactions
+> d. Actors
+
+Answer: (d) The stakeholder roles are called actors. Scenarios and use cases show how actors interact with the solution to accomplish one or more of their goals or in response to a particular event.
+
+105. Holly creates a data model that represents how data will move between stakeholders in the process. In some instances, the data is moved between just two stakeholders, and other times the data is moved from stakeholder to stakeholder. What type of data diagram would best serve Holly in this instance?
+
+a. RACI
+> b. Sequence Diagram
+c. Process flow
+d. Communication model
+
+Answer: (b) Sequence diagrams show how the information gets passed back and forth between two people. Sequence diagrams are commonly used during object-oriented analysis to show how classes and objects interact during a scenario.
+
+106. You are using interface analysis as part of your modeling approach to requirements analysis. Which one of the following definitions best describes interface analysis?
+
+a. Used to measure, manage, and report on the expected benefits of implementing a proposed solution.
+b. Defines the purpose and structure of an organization or an organizational unit.
+c. A method to add additional details to your solution interface requirements and integrate those requirements with the other requirements.
+> d. A basis for interoperability by recognizing inputs, outputs, and key data elements that enable your solution and its components to interact with other elements.
+
+Answer: (d) Interface analysis establishes a basis for interoperability by recognizing inputs, outputs, and key data elements that enable your solution and its components to interact with everything else that is already out there.
+
+107. Which of the following shows how information moves into, through, and out of a system?
+
+> a. Data flow diagram
+b. Data modeling
+c. Sequence diagram
+d. State diagram
+
+Answer: (a) Data flow diagrams permit a user to organize his/her requirements based on how information or data flows through the system. It shows how information moves into, through, and out of a system.
+
+108. Which of the following techniques is used to define and analyze data requirements that support the business processes of an organization?
+
+a. Business Rules Analysis
+b. Data Flow Diagram
+> c. Data modeling
+d. Scope modeling
+
+Answer: (c) Data modeling is a method used to define and analyze data requirements needed to support the business processes of an organization. The data requirements are recorded as a conceptual data model with associated data definitions. Actual implementation of the conceptual model is called a logical data model. Implementation of one conceptual data model may require multiple logical data models. Data modeling defines not just data elements, but their structures and relationships between them. Data modeling techniques and methodologies are used to model data in a standard, consistent, and predictable manner in order to manage it as a resource. The use of data modeling standards is strongly recommended for all projects requiring a standard means of defining and analyzing data within an organization.
+
+109. Which one of the following definitions most accurately describes the concept of a data model?
+
+a. It's a lexicon of terms so that all stakeholders can reference a common nomenclature for requirements.
+b. It's a lexicon of terms illustrated with a flow of data through a system.
+> c. It's a visual representation of all people, places, things, and concepts that are important to the business in regard to the requirement.
+d. It's a visual representation of all the components of the business solution that are important to verification of the requirement for acceptability.
+
+Answer: (c)The only correct definition is that data models are visual representations of all people, places, things, and concepts that are important to the business in regard to the requirement.
+
+110. What component of a data model designate the responsibilities and actions of a particular role in the data model?
+
+a. Terminal points
+> b. Swimlanes
+c. Flow
+d. Decisions
+
+Answer: (b) Swimlanes designate the responsibilities and actions of a particular role in the data model.
+
+111. Which of the following task inputs are used to assist the business analyst in assessing capability gaps in the organization to meet the business needs? Each correct answer represents a complete solution. Choose three.
+
+> a. Business need
+> b. Enterprise architecture
+c. Business Goals and Objectives
+> d. Solution performance assessment
+
+Answer: (a,b,d) The task inputs used to assist the business analyst in assessing capability gaps in the organization to meet the business needs are as follows: Business need, Enterprise architecture, Solution performance assessment
+
+112. The business analysis team has determined the solution approach and defined the solution scope. Which of the following is the team's most likely next step?
+
+a. Describing and understanding the business need
+b. Assessing capability gaps in the organization
+c. Determining the most feasible business solution approach
+> d. Defining a business case for the proposed solution
+
+Answer: (d) After determining the solution approach and defining the solution scope, the business analysis team should define a business case for the proposed solution.
+
+113. Which of the following helps the team in categorizing the various potential causes of issues that may exist in business?
+
+a. Five whys
+b. Organizational chart
+> c. Fishbone diagram
+d. RACI chart
+
+Answer: (c) A fishbone diagram is used to identify the causes of a problem. It is also known as Ishikawa or cause-and-effect diagram. A fishbone diagram helps the team in categorizing the various potential causes of issues that may exist in business.
+
+114. Which of the following stakeholder roles provide an outstanding source of current problems and limitations with systems and processes to the business analyst? Each correct answer represents a part of the solution. Choose two.
+
+> a. Domain SME
+b. Business analyst
+> c. End user
+d. Sponsor
+
+Answer: (a,c) Domain SMEs and end users provide an outstanding source of current problems and limitations with systems and processes to the business analyst.
+
+115. Mark is the business analyst for his organization and he's presenting his business case to management for their approval. In the business case, Mark has clearly defined the benefits, the estimated costs of the solution, and how the organization should measure the expected results. What other element should Mark include in the business case?
+
+a. His preference for the project solution
+b. His recommendation for the project manager
+c. How the organization recoup their investment
+> d. His assessment of the initial risks
+
+Answer: (d) As part of the business case, the business analyst should define the benefits, the estimated costs, the measurements for the expected results, and the initial risks for the solution.
+
+116. Gina has been asked to provide decision analysis for her solution scope. Which one of the following best describes the decision analysis technique?
+
+> a. Cost-benefit analysis compares the cost of implementing a solution against the benefits gained. Financial analysis includes the use of financial models that estimate the market value of an organizational asset.
+b. Forecasts the size of the investment required to deploy and operate the proposed solution.
+c. Assessed to support benefit management, measurement, and reporting.
+d. Used to assess potential risks that may impact the solution and the cost and benefits associated with it.
+
+Answer: (a) Decision analysis relies on both cost-benefit analysis and financial analysis.
+
+117. Which of the following elements should the business analyst address while defining the solution scope? Each correct answer represents a part of the solution. Choose three.
+
+> a. Define the actual solution scope
+> b. Determine the implementation approach
+c. Validate the solution metrics
+> d. Capture solution dependencies
+
+Answer: (a,b,d) While defining the solution scope, the business analyst should address the following essential elements: Define the actual solution scope; Determine the implementation approach; Capture solution dependencies
+
+118. You are the business analyst for your organization and you're helping management to determine which project will bring the most value to the organization. In your presentation, you're showing management what they can expect to receive as a reward for the risk of investment over five years after solution implementation. What technique is used to demonstrate the return of investment?
+
+a. Discounted cash flow
+b. Net present value
+c. Payback period
+> d. Average rate of return
+
+Answer: (d) This is an example of the average rate of return because you're showing management the return of investment over five years.
+
+119. You propose a solution that will cost $450,000 to create but will earn the organization $75,000 a month once the solution has been incorporated. Assuming that the solution will take six months to create, how long before the project will reach its payback period?
+
+a. Six months
+> b. One year
+c. 18 months
+d. Two years
+
+Answer: (b) The project will cost $450,000 to create and will earn $75,000 per month. You must divide $450,000 by the $75,000 for a value of six months. However, it will take six months before the project begins earning, so the correct answer is 12 months.
+
+120. Thomas is looking to prioritize requirements for his project based on items that are easiest for the team to implement. What priority ranking scheme is Thomas using?
+
+a. Likelihood of success
+b. Stakeholder agreement
+> c. Implementation difficulty
+d. Urgency
+
+Answer: (c) The implementation difficulty ranking is characterized as the easiest for the team to implement in the project.
+
+121. Which one of the following best describes the process of timeboxing/budgeting for requirement prioritization and analysis?
+
+> a. A technique best described as a prioritization for requirements for implementation is based on the allocation of a fixed resource, usually either time or money.
+b. A technique to estimate the amount of time and money needed in the project is based on the prioritization of a requirement.
+c. A technique to estimate the amount of time and money needed in the project; as more requirements are added, a set amount of time and money are added to the cost and schedule.
+d. A technique best described as a prioritization for requirements is based on costs and resource availability.
+
+Answer: (a) Timeboxing/budgeting considers the whole costs of the project and the whole amount of time of the project with the assumption that all requirements are needed. As requirements from the box time and money for each requirement are removed.
+
+122. Ned is the business analyst for the NHQ Company. He is working with Stan on completing the requirements prioritization of all the identified requirements. Why would Stan and Ned complete requirements prioritization?
+
+> a. To determine which requirements should be completed first
+b. To determine which requirements should not be completed at all
+c. To determine which requirements carry the most risk
+d. To determine who created what requirement based on their position in the organization
+
+Answer: (a) Part of the prioritize requirements process is to determine which requirements may be completed first based on their urgency.
+
+123. Paul is the business analyst for his organization. He is examining a single solution to determine if the solution he and his team have identified carries enough business value to justify its implementation. What business analysis process is Paul performing in this scenario?
+
+> a. Assess proposed solution
+b. Allocate requirements
+c. Assess organizational readiness
+d. Define transition requirements
+
+Answer: (a) The Assess proposed solution is the process Paul is performing. The process can be done on an individual solution or among multiple solutions if needed
+
+124. What element of the conduct elicitation activity is tracked to provide a basis for future planning?
+
+> a. Time actually spent eliciting the requirements
+b. Cost of actually eliciting the requirements
+c. Number of stakeholders that did not participate in the requirements elicitation
+d. Changes that entered the scope throughout the requirements elicitation activities
+
+Answer: (a) The time that is spent actually doing the requirements elicitation activities is tracked for help with future planning.
+
+125. Mark is the business analyst for his organization. Mark and his business analysis team have used the whiteboard to record the documentation as the result of requirements elicitation. What must be done with this information if Mark uses a whiteboard?
+
+a. The regulator must approve the writings on the whiteboard.
+b. The scribe must include the white board information as part of the minutes.
+c. The business analyst must document the white board information and get all participants' approval of the recording.
+> d. The business analyst must transfer the information to another medium before the whiteboard is erased.
+
+Answer: (d) The business analyst must make certain to record the collected information before cleaning the whiteboard.
+
+126. You are the business analyst for your organization and you are preparing to elicit the requirements for a new business opportunity. What is the prerequisite for conducting an elicitation process?
+
+> a. You need to ensure that all needed resources are organized and scheduled for conducting the elicitation activities.
+b. You need to receive permission from functional management to interview and elicit requirements for the stakeholders.
+c. You need authority granted to you from the sponsor to utilize resources for the elicit requirements process.
+d. You need to determine which elicitation techniques are needed for the requirements gathering technique.
+
+Answer: (a) The prerequisite for elicitation process includes gathering of all resources needed, and scheduling the resources for conducting the selected elicitation activities.
+
+127. You have identified several stakeholders that you believe are kinesthetic learners. Which statement best describes the kinesthetic learning approach?
+
+a. The learners are not interested in the topic unless they can immediately apply it to their lives or jobs.
+b. The learners learn best by reading and pondering.
+> c. The learners learn best be experiencing the topic.
+d. The learners learn best by seeing the topic in a model or through storyboards.
+
+Answer: (c) Kinesthetic learners learn best by experiencing the topic through hands-on exercises or experiences.
+
+128. What is the purpose of the business case?
+
+a. The business case helps the organization determine if the solution is feasible.
+b. The business case helps the organization determine the cost of the solution.
+c. The business case helps the organization determine the duration and cost of the solution.
+> d. The business case helps the organization determine if they can justify the investment for the solution.
+
+Answer: (d) Business case is a document that helps the organization determine if the benefits of the solution is worth the investment of the solution.
+
+129. Which of the following are the key inputs required to adequately prepare to elicit requirements information on the project?
+
+> a. Business Case
+> b. Business Need
+> c. Solution Scope
+> d. Stakeholder List, Roles, and Responsibilities
+e. Organizational Process Assets (OPAs)
+f. Requirements Management Plan
+
+Answer: (a,b,c,d) Review the  prepare for elicitation Flow Chart.
+
+130. Which of the following is a diagram that shows the structure of an organization and the relationships and relative ranks of its parts and positions/jobs?
+
+> a. Organizational chart
+b. Resource Breakdown Structure
+c. Responsibility Assignment Matrix
+d. RACI chart
+
+Answer: (a) An organizational chart (often called organization chart or organizational breakdown structure (OBC)) is a diagram that shows the structure of an organization and the relationships and relative ranks of its parts and positions/jobs. An organization chart is arranged by departments, units, or teams.
+
+131. On which of the following knowledge areas does the business analyst define his/her approach for tracing project requirements?
+
+> a. Business analysis planning and monitoring
+b. Enterprise analysis
+c. Requirements analysis
+d. Requirements management and communication
+
+Answer: (a) The Requirements Management plan that is built as part of the Business Analysis Planning and Monitoring knowledge area defines the project's approach to traceability. Business Analysis Planning and Monitoring helps in defining the tasks related with the planning and monitoring of business analysis activities, and with the monitoring and reporting on work executed to ensure that the business analysis effort generates the outcomes which meet stakeholder expectations and needs.
+
+132. You are the business analyst for your organization and preparing to plan the business analysis approach. There are three inputs to the business analysis approach. Which one of the following is not an input to this process?
+
+a. Business Need
+b. Expert Judgment
+c. Organizational Process Assets
+> d. Enterprise Environmental Factors
+
+Answer: (d) Enterprise environmental factors are the rules, policies, and procedures that the business analyst must adhere. These are already established, and therefore, are not considered to be an input to this process. The three inputs to the plan business analysis approach are the business needs, expert judgment, and organizational process assets.
+
+133. What type of a business analysis approach focuses on the rapid delivery of business value in short iterations?
+
+a. Risk-laden
+> b. Change-driven
+c. Risk-driven
+d. Profit-driven
+
+Answer: (b) The change-driven approach looks to create business value in short iterations. The downside of this approach, however, is that there is more risk and uncertainty in the overall direction. The change-driven approach relies on team interaction to define requirements and gather feedback on the solution.
+
+134. When can changes to requirements occur in a business analysis planning and monitoring assignment?
+
+a. Change to requirements can occur at any time before the key stakeholders approve the identified requirements
+> b. Changes to requirements can occur at any time
+c. Change to requirements can occur any time before the project scope statement is created
+d. Changes to requirements can occur any time after the project's change control system has been enacted
+
+Answer: (b) Changes to requirements can and often, do happen at any time.
+
+135. Which one of the following terms is not a business analysis planning and monitoring approach?
+
+a. Decision analysis
+> b. Requirements elicitation
+c. Process modeling
+d. Structured walkthroughs
+
+Answer: (b) Requirements elicitation is a business analysis task; it is not a business analysis planning and monitoring approach.
+
+136. There are four inputs to the plan business analysis activities. Which one of the following is not an input to the plan business analysis activities process?
+
+a. Organizational process assets
+b. Business analysis approach
+c. Stakeholder list, roles, and responsibilities
+> d. List of identified risks
+
+Answer: (d) Risk identification is not an input to the plan business analysis activities. The four inputs to the plan business analysis activities are organizational process assets, business analysis approach, stakeholder list, roles and responsibilities, and the business analysis performance assessment.
+
+137. What element of the plan business analysis process affects the business analysis duties that need to be performed?
+
+> a. The type of project or initiative
+b. The experience of the project manager
+c. The experience of the business analyst
+d. The expected completion date of the business analysis duties
+
+Answer: (a) The type of project or initiative greatly influences which business analysis duties will be selected. Not all business analysis tasks are appropriate for all initiatives.
+
+138. You have identified a task in your task list that cannot be completed until the inspector for the project signs off the initial deliverables. The inspector's signoff on the initial deliverables is called as?
+
+a. Constraint
+b. Assumption
+> c. Dependency
+d. Milestone
+
+Answer: (c) The current task is dependent on the preceding task of the inspector signing off on the deliverables.
+
+139. You are the business analyst for your organization and are beginning the requirements analysis processes. Which one of the following statements best describes the requirements analysis processes?
+
+> a. It covers the definition of stakeholder requirements, which describes what a solution must be capable of doing.
+b. It ensures that analysis and implementation efforts focus on the most critical requirements.
+c. It defines all of the work, and only the required work, to complete the project objectives.
+d. It is conformity to requirements and a fitness for use.
+
+Answer: (a) The requirements analysis processes are a collection of processes that work together to define the stakeholder requirements, the solution to satisfy the stakeholder, and a definition of the solution in enough detail so that the solution components can be constructed.
+
+140. One of the processes within requirements analysis is to prioritize requirements. As a business analyst, why would you ever want to prioritize requirements?
+
+a. You may need to determine the cost of each requirement.
+b. You may need to determine the schedule for each requirement.
+> c. You may need to determine which requirements are most critical so the analysis and implementation efforts focus on the most critical requirements.
+d. You may need to determine which requirements are most critical so additional risk analysis can be completed on those requirements.
+
+Answer: (c) Some requirements are more important than others. Requirements prioritization is a process to determine which requirements are most critical so the business analyst can focus the efforts on the most critical components.
+
+141. You are the business analyst for your organization and are working on prioritizing requirements. What plan should guide you through this process?
+
+a. Scope management plan
+b. Project management plan
+c. Risk management plan
+> d. Requirements management plan
+
+Answer: (d) The requirements management plan defines the process for prioritizing requirements.
+
+142. All of the following stakeholders participate in the prioritization of requirements except for which one?
+
+a. Domain subject matter expert
+b. Implementation subject matter expert
+c. Project manager
+> d. Project team
+
+Answer: (d) The project team does not participate in the prioritization of requirements.
+
+143. Which of the following tasks is performed by business analyst in the Requirements Analysis knowledge area? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Prioritize requirements
+> b. Organize requirements
+> c. Verify requirements
+d. Confirming elicitation results
+
+Answer: (a,b,c) The Requirements Analysis knowledge area focuses on analyzing the stated requirements from the elicitation efforts and building the real stakeholder or solution requirements for the project.
+
+144. What are the key inputs required to assist the requirements structure during requirements analysis? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Organizational Process Assets
+> b. Stated Requirements
+> c. Solution Scope
+d. Requirements Management Plan
+e. Stakeholder List, Roles, and Responsibilities
+
+Answer: (a,b,c) Project requirements should be structured and organized into a set of information, which is complete, comprehensive, consistent, and understandable to stakeholders. The business analyst is responsible for deciding how to structure individual requirements, group those requirements, and show the relationships between them. A good requirements structure provides consistency, repeatability, and a high level of requirements quality.
+
+145. Which of the following describes the amount of work that the project team is capable of completing in a set time period?
+
+a. Decision analysis
+b. MOSCOW analysis
+> c. Timeboxing
+d. Voting
+
+Answer: (c) Timeboxing describes the amount of work that the project team is capable of completing in a set time period. Timeboxing and budgeting helps in prioritizing requirements for implementation that is based on the allocation of a fixed resource, such as, time or money.
+
+146. Which of the following defines the approach for the business analyst to take on the project while prioritizing the project requirements?
+
+> a. Requirements Management Plan
+b. Organizational Process Assets (OPAs)
+c. Solution scope
+d. Stated Requirements
+
+Answer: (a) The requirements management plan defines the approach for the business analyst to take on the project while prioritizing the project requirements.
+
+147. Which of the following defines data elements, their meanings, and their allowable values?
+
+> a. Data dictionary
+b. Nonfunctional requirements analysis
+c. Problem tracking
+d. Checklist
+
+Answer: (a) Data dictionaries are used to define data elements, their meanings, and their allowable values. It defines the key terms and data, relevant to a business domain.
+
+148. What are the various techniques that the business analyst may choose to apply when verifying requirements? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Checklist
+> b. Structured Walkthrough
+> c. Problem tracking
+> d. Acceptance and Evaluation Criteria Definition
+e. Prototyping
+f. Risk analysis
+
+Answer: (a,b,c,d) Checklist: A checklist is a structured and component-specific tool. It is used to verify that a set of required steps has been performed. It may be simple or complex. Various organizations have standardized checklists in order to ensure uniformity in frequently performed tasks. Quality checklists are used in the perform quality control process. Structured Walkthrough: Structured walkthrough is a tool used to analyze the system design in order to make sure that it addresses all requirements. It is a mean of ensuring conformity to standard. Once the recommended techniques are applied to communicate the requirements, it can be said that these requirements have been communicated. Problem tracking: Problem tracking allows the business analyst to manage any issues identified within requirements by stakeholders and to ensure that those issues are resolved. It provides an organized approach to tracking, management, and resolution of defects, issues, problems, and risks throughout business analysis activities. Management of issues is important so that they can be resolved in a timely manner to ensure success. Acceptance and Evaluation Criteria Definition: The business analyst should identify the quality criteria against which he evaluates his requirements as part of requirements verification.
+
+149. What are the key inputs required to validate requirements? Each correct answer represents a complete solution. Choose all that apply.
+
+> a. Business Case
+> b. Stakeholder, Solution, or Transition Requirements (Verified)
+c. Stakeholder Concerns
+d. Requirements Structure
+
+Answer: (a,b) Validating requirements make sure that the requirements support the business requirements and the business objectives for the project. In order to be valid, the requirements should contribute directly or indirectly to the business case. Requirements validation is ongoing across the project life cycle; it helps in ensuring that each level of detail a user adds to his/her requirements aligns with the big picture.
+
+150. What business analysis plan defines the process to be followed in managing the solution scope and requirements?
+
+a. Change management plan
+b. Scope management plan
+c. Project management plan
+> d. Requirements management plan
+
+Answer: (d) The requirements management plan defines how the business analyst will manage the solution scope and the requirements.
